@@ -22,3 +22,4 @@
 #ch id="fox-506" url="https://tmsbd.top/tt/play.php?id=824" domain="https://bingewav-sports.netlify.app"
 #ch id="fox-507" url="https://tmsbd.top/tt/play.php?id=825" domain="https://bingewav-sports.netlify.app"
 #ch id="ten-cricket" url="https://tmsbd.top/jig/chd/2sportstv.php?c=tenspk" domain="https://bingewav-sports.netlify.app"
+#ch id="sony-ten-3" url="https://tmsbd.top/jig/chd/2sportstv.php?c=ten1hd" domain="https://bingewav-sports.netlify.app"
