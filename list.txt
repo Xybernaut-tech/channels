@@ -1,5 +1,5 @@
 #ch id="astro" url="https://tmsbd.top/tt/play.php?id=370" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://editverseog.netlify.app, https://cricketgroup.netlify.app"
-#ch id="astro+" url="https://binge-channels.vercel.app/astro.html" domain="https://bingewav-sports.netlify.app"
+#ch id="astrop" url="https://binge-channels.vercel.app/astro.html" domain="https://bingewav-sports.netlify.app"
 #ch id="willow" url="https://criccoder264.pages.dev/Willow" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://cricketgroup.netlify.app"
 #ch id="willow-xtra" url="https://tmsbd.top/tt/play.php?id=598" domain="https://bingewav-sports.netlify.app"
 #ch id="tnt-1" url="https://tnt1-cricstreaming.pages.dev" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://crxcshivam.live, https://cricketgroup.netlify.app"
