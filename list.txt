@@ -535,4 +535,4 @@ if __name__ == "__main__":
 #valid domain="https://editverseog.netlify.app" date="07/01/2025" time="15:00"
 #valid domain="https://cricket-nation.live" date="08/01/2025" time="15:00"
 #valid domain="https://cricketgroup.netlify.app" date="07/01/2025" time="15:00"
-#valid domain="https://crxcshivam.live" date="01/02/2025" time="15:00"
+#valid domain="https://crxcshivam.live" date="01/01/2025" time="15:00"
