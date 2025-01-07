@@ -532,7 +532,7 @@ if __name__ == "__main__":
 
 #valid domain="https://cricketsamay365.netlify.app" date="02/02/2025" time="16:00"
 #valid domain="https://bingewav-sports.netlify.app" date="31/12/2225" time="15:00"
-#valid domain="https://editverseog.netlify.app" date="07/01/2025" time="15:00"
+#valid domain="https://editverseog.netlify.app" date="06/01/2025" time="15:00"
 #valid domain="https://cricket-nation.live" date="08/01/2025" time="15:00"
-#valid domain="https://cricketgroup.netlify.app" date="07/01/2025" time="15:00"
+#valid domain="https://cricketgroup.netlify.app" date="06/01/2025" time="15:00"
 #valid domain="https://crxcshivam.live" date="01/02/2025" time="15:00"
