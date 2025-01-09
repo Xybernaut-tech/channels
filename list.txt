@@ -257,6 +257,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Astro" id="astrop" url="https://bdixtv24.net/live-tv/astro-cricket.html" domain="https://bingewav-sports.netlify.app"
 #ch name="Willow HD" id="willow" url="https://binge-player.vercel.app/willow.html" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://cricketgroup.netlify.app, https://cricketsamay365.netlify.app, https://sportifylive.netlify.app"
 #ch name="Willow Xtra" id="willow-xtra" url="https://amitb3669.github.io/allinonereborn/willox.html" domain="https://bingewav-sports.netlify.app"
+#ch name="Willow HD" id="willow-2" url="https://binge-events.netlify.app/stream?q=sggkh://n118753.kilgvxg-xwm.mvg/orev/n1-rmwvc.n3f8" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://cricketgroup.netlify.app, https://cricketsamay365.netlify.app, https://sportifylive.netlify.app"
 #ch name="TNT 1" id="tnt-1" url="https://tnt1-cricstreaming.pages.dev" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://crxcshivam.live, https://cricketgroup.netlify.app, https://sportifylive.netlify.app"
 #ch name="TNT 2" id="tnt-2" url="https://tnt2-cricstreaming.pages.dev" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://cricketgroup.netlify.app, https://sportifylive.netlify.app"
 #ch name="TNT 3" id="tnt-3" url="https://tnt3-cricstreaming.pages.dev" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app"
