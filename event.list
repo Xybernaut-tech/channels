@@ -2,8 +2,8 @@
 #poster img="https://i.ibb.co/rmpncBq/Powered-by.png"
 
 #ch name="astro" url="https://cricsters.org/?id=astro"
-#ch name="Willow Cricket" url="/p2?id="
-#ch name="Willow Sports" url="/p2?id="
-#ch name="Willow Server 2" url="/p2?id="
-#ch name="Supersport Cricket" url="/p2?id="
-#ch name="Sky Sports Cricket" url="/p2?id="
+#ch name="Willow Cricket" url="/p2?id=willow"
+#ch name="Willow Sports" url="/p2?id=willows"
+#ch name="Willow Server 2" url="/p2?id=willow-2"
+#ch name="Supersport Cricket" url="/p2?id=sscricket"
+#ch name="Sky Sports Cricket" url="/p2?id=skycric"
