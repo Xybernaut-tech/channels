@@ -1,0 +1,13 @@
+{
+    "name": "Champions Trophy Live match Data in Json",
+    "telegram": "https://t.me/axtream_bingewav",
+    "channels": "star-hindi, star-english, sscricket, skycric, willow, willow-xtra",
+    "matches": [
+        {
+            "match_no": 1,
+            "title": "Delhi Royals vs Gujarat Samp Army (Champions Trophy, 2025)",
+            "start_time": "07:00:00 PM 11-02-2025",
+            "end_time": "07:00:00 PM 11-02-2025",
+        },
+    ]
+}
