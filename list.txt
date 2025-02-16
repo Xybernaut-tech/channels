@@ -286,7 +286,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sky Sports NZ 2" id="skynz-2" url="https://tapmadtv.live/play.php?c=sky2nz" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricketsamay365.netlify.app"
 #ch name="Sky Sports NZ 3" id="skynz-3" url="https://tapmadtv.live/play.php?c=sky3nz" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch name="Sky Sports NZ 4" id="skynz-4" url="https://tapmadtv.live/play.php?c=sky4nz" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch name="Criclife" id="criclife" url="https://binge-play.vercel.app/oplex/player.html?id=355008" domain="https://bingewav-sports.netlify.app, https://sportifylive18.netlify.app, https://cricketsamay365.netlify.app"
+#ch name="Criclife" id="criclife" url="https://binge-play.vercel.app/oplex/player.html?id=371469" domain="https://bingewav-sports.netlify.app, https://sportifylive18.netlify.app, https://cricketsamay365.netlify.app"
 #ch name="Sony Ten 1" id="sony-ten-1" url="https://nayeemparvez.online/novasports/?view=player&id=e5dad0aed102a639620a3dd416e43a44&t=VTI5dWVTQlRjRzl5ZEhNZ1ZHVnVJREF4" domain="https://bingewav-sports.netlify.app"
 #ch name="Sony Ten 2" id="sony-ten-2" url="https://binge-play.vercel.app/oplex/player.html?id=167571" domain="https://bingewav-sports.netlify.app"
 #ch name="Sony Ten 3" id="sony-ten-3" url="https://nayeemparvez.online/novasports/?view=player&id=c175beb56541b80ad0cb7b721c92694e&t=VTI5dWVTQlRjRzl5ZEhNZ1ZHVnVJREF6" domain="https://bingewav-sports.netlify.app"
