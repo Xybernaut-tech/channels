@@ -1,14 +1,14 @@
 {
     "name": "Champions Trophy Live match Data in Json",
     "telegram": "https://t.me/axtream_bingewav",
-    "channels": "star-english, willow-ios, tsport, skynz-1, star-hindi, star-1h, sscricket, ten-sport, skycric, criclife, astro",
+    "channels": "ctp, star-english, willow-ios, tsport, skynz-1, star-hindi, star-1h, sscricket, ten-sport, skycric, criclife, astro",
     "matches": [
         {
             "match_no": "1",
             "team1": "Pakistan",
             "team2": "New Zealand",
             "date": "19-02-2025",
-            "start_time": "12:30",
+            "start_time": "11:30",
             "end_time": "23:30"
         },
         {
