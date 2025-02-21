@@ -295,7 +295,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Laliga TV" id="laliga" url="https://allinonereborn.com/cric-hd/sportstv.php?c=laligauk" domain="https://bingewav-sports.netlify.app"
 #ch name="Sports 18 (Android)" id="sports18k" url="https://binge-events.netlify.app/stream?q=sggkh://qxvevmgh.qrlxrmvnz.xln/ykp-ge/QX_Hkligh18_1SW/QXSOH/swmgo=vck=1740208827~zxo=%2u*~rw=w10094w21727y83w854u53350y926451~wzgz=swmgo~snzx=w5115u9w40y9v7v81y21y7067548y2506y79ux269ux80u08937584x0vx76590y/QX_Hkligh18_1SW/rmwvc.n3f8" domain="https://bingewav-sports.netlify.app, https://cricketsamay365.netlify.app, https://sportifylive18.pages.dev"
 #ch name="Sports 18 Server 2" id="wpl" url="https://binge-play.vercel.app/jio/player.html?ref=jc/1998.m3u8" domain="https://bingewav-sports.netlify.app"
-#ch name="Prime Video (English)" id="prime" url="https://cricnation.live/p2?id=Prime" domain="https://bingewav-sports.netlify.app, https://cricketsamay365.netlify.app"
+#ch name="Prime Video (English)" id="prime" url="https://shwe7ank-7.github.io/L/Prime.html" domain="https://bingewav-sports.netlify.app, https://cricketsamay365.netlify.app"
 #ch name="Sports 18 (Windows)" id="sports18kw" url="https://cricnation.live/p?id=D18" domain="https://bingewav-sports.netlify.app, https://cricketsamay365.netlify.app, https://sportifylive18.pages.dev"
 #ch name="Myco" id="my" url="https://binge-events.netlify.app/stream?q=sggkh://no-kfoo-sdx.nbxl.rl/hgivzn1/soh/hgivzn1.n3f8" domain="https://bingewav-sports.netlify.app, https://cricketsamay365.netlify.app"
 #ch name="Prime Video (Hindi)" id="prime-hindi" url="https://binge-player.vercel.app/primeh.html" domain="https://bingewav-sports.netlify.app, https://cricketsamay365.netlify.app"
