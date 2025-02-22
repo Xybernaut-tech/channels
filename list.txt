@@ -298,8 +298,8 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sports 18 (Windows)" id="sports18kw" url="https://cricnation.live/p?id=D18" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev"
 #ch name="Myco" id="my" url="https://binge-events.netlify.app/stream?q=sggkh://no-kfoo-sdx.nbxl.rl/hgivzn1/soh/hgivzn1.n3f8" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Prime Video (Hindi)" id="prime-hindi" url="https://binge-player.vercel.app/primeh.html" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
-#ch name="Sports 18 Khel (Windows)" id="jc-18w" url="https://binge-events.netlify.app/stream?q=sggkh://qxvevmgh.qrlxrmvnz.xln/ykp-ge/Hkligh18_Psvo_ellg_NLY/Uzooyzxp/swmgo=vck=1740225847~zxo=%2u*~rw=zzu549vx51984x86y32ww7wv3v1334x7~wzgz=swmgo~snzx=79z8v98x57160w0y22u6v30xuzy278w0w2974x2y8xu68y08w7ww94359v2v5341/Hkligh18_Psvo_ellg_NLY-zfwrl_98838_vmt=98800-erwvl=1680400.n3f8"
-#ch name="Sports 18 Khel (Android)" id="jc-18" url="https://binge-events.netlify.app/stream?q=sggkh://qxvevmgh.qrlxrmvnz.xln/ykp-ge/Hkligh18_Psvo_ellg_NLY/Uzooyzxp/swmgo=vck=1740231190~zxo=%252u*~rw=w10094w21727y83w854u53350y926451~wzgz=swmgo~snzx=u8v28ww880w44wvx3w2x031uwz274xx40u43y3uw8z97w4z20u1u5xzuw17144y1/rmwvc.n3f8" domain="https://bingewav-sports.netlify.app"
+#ch name="Sports 18 Khel (Windows)" id="jc-18w" url="https://cricnation.live/p/?id=WPL2" domain="https://bingewav-sports.netlify.app"
+#ch name="Sports 18 Khel (Android)" id="jc-18" url="https://cricnation.live/p/?id=WPL"domain="https://bingewav-sports.netlify.app"
 #ch name="A Sports HD" id="ahd" url="https://binge-events.netlify.app/stream?q=sggkh://slxwm.mvdh/orev/zhklighsw.n3f8" domain="https://bingewav-sports.netlify.app"
 #ch name="Bingewave Sports" id="bsports" url="https://binge-events.netlify.app/play?q=sggkh://fhvic534.kilgvxg-xwm.mvg/orev/n3-720k.n3f8?|winHxsvnv=xovzipvb&winOrxvmhv=4z5191838wz17z2zy771u4258uzw347u:54y7z084437459368vvw07w182zw644x" domain="https://bingewav-sports.netlify.app"
 
