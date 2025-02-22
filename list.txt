@@ -296,7 +296,6 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sports 18 Server 2" id="wpl" url="https://binge-play.vercel.app/jio/player.html?ref=jc/1998.m3u8" domain="https://bingewav-sports.netlify.app"
 #ch name="Prime Video (English)" id="prime" url="https://shwe7ank-7.github.io/L/Prime.html" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Sports 18 (Windows)" id="sports18kw" url="https://cricnation.live/p?id=D18" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev"
-#ch name="Myco" id="my" url="https://binge-events.netlify.app/stream?q=sggkh://no-kfoo-sdx.nbxl.rl/hgivzn1/soh/hgivzn1.n3f8" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Prime Video (Hindi)" id="prime-hindi" url="https://binge-player.vercel.app/primeh.html" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Sports 18 Khel (Windows)" id="jc-18w" url="https://cricnation.live/p/?id=WPL2" domain="https://bingewav-sports.netlify.app"
 #ch name="Sports 18 Khel (Android)" id="jc-18" url="https://cricnation.live/p/?id=WPL"domain="https://bingewav-sports.netlify.app"
