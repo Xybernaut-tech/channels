@@ -284,7 +284,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sky Sports Cricket" id="skycric" url="https://binge-player.pages.dev/hls?url=https://hocdn.news/live/skyscric.m3u8" domain="https://bingewav-sports.netlify.app, https://editverseog.netlify.app, https://crxcshivam.live, https://cricketgroup.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev"
 #ch name="Sky Sports NZ 1" id="skynz-1" url="https://binge-play.vercel.app/oplex/player.html?id=233178" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch name="Sky Sports NZ 2" id="skynz-2" url="https://tapmadtv.live/play.php?c=sky2nz" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricstreamline365.netlify.app"
-#ch name="Sky Sports NZ 3" id="skynz-3" url="https://tapmadtv.live/play.php?c=sky3nz" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
+#ch name="Sky Sports NZ 3" id="skynz-3" url="https://binge-player.pages.dev/hls?url=https://hocdn.news/live/sky3nz.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch name="Sky Sports NZ 4" id="skynz-4" url="https://tapmadtv.live/play.php?c=sky4nz" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch name="Criclife" id="criclife" url="https://binge-play.vercel.app/oplex/player.html?id=371469" domain="https://bingewav-sports.netlify.app, https://sportifylive18.pages.dev, https://cricstreamline365.netlify.app"
 #ch name="Sony Ten 1" id="sony-ten-1" url="https://nayeemparvez.online/novasports/?view=player&id=e5dad0aed102a639620a3dd416e43a44&t=VTI5dWVTQlRjRzl5ZEhNZ1ZHVnVJREF4" domain="https://bingewav-sports.netlify.app"
