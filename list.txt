@@ -296,7 +296,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sports 18 Server 2" id="wpl" url="https://binge-play.vercel.app/jio/player.html?ref=jc/1998.m3u8" domain="https://bingewav-sports.netlify.app"
 #ch name="Prime Video (English)" id="prime" url="https://shwe7ank-7.github.io/L/Prime.html" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Sports 18 (Windows)" id="sports18kw" url="https://binge-events.netlify.app/stream?q=sggkh://qxvevmgh.qrlxrmvnz.xln/ykp-ge/QX_Hkligh18_1SW/QXSOH/swmgo=vck=1740312248~zxo=%2u*~rw=zzu549vx51984x86y32ww7wv3v1334x7~wzgz=swmgo~snzx=5x5435zuuuy35569wz85u5vy276587502u5x4x768804y98y695wy06v100u0w3y/QX_Hkligh18_1SW-zfwrl_108038_vmt=108000-erwvl=2297600.n3f8" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev"
-#ch name="Prime Video (Hindi)" id="prime-hindi" url="https://cricmantra.github.io/Primehindi/" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
+#ch name="Prime Video (Hindi)" id="prime-hindi" url="https://odfinity.github.io/channelz/prime-h" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Sports 18 Khel (Windows)" id="jc-18w" url="https://cricnation.live/p/?id=WPL2" domain="https://bingewav-sports.netlify.app"
 #ch name="Sports 18 Khel (Android)" id="jc-18" url="https://cricnation.live/p/?id=WPL"domain="https://bingewav-sports.netlify.app"
 #ch name="A Sports HD" id="ahd" url="https://binge-events.netlify.app/stream?q=sggkh://slxwm.mvdh/orev/zhklighsw.n3f8" domain="https://bingewav-sports.netlify.app"
