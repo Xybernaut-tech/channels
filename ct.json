@@ -101,16 +101,16 @@
         },
         {
             "match_no": "13",
-            "team1": "TBC",
-            "team2": "TBC",
+            "team1": "India",
+            "team2": "Australia",
             "date": "04-03-2025",
             "start_time": "12:30",
             "end_time": "23:30"
         },
         {
             "match_no": "14",
-            "team1": "TBC",
-            "team2": "New Zealand",
+            "team1": "New Zealand",
+            "team2": "South Africa",
             "date": "05-03-2025",
             "start_time": "12:30",
             "end_time": "23:30"
