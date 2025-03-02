@@ -1,7 +1,7 @@
 {
     "name": "Champions Trophy Live match Data in Json",
     "telegram": "https://t.me/axtream_bingewav",
-    "channels": "prime, prime-hindi, star-hindi, prime-jw, prime-hjw, g-super, astro, astr, sports18k, sport18k, willow-ios",
+    "channels": "prime, prime-hindi, bsport, star-hindi, prime-jw, prime-hjw, g-super, astro, astr, sports18k, sport18k, willow-ios",
     "matches": [
         {
             "match_no": "1",
