@@ -290,7 +290,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sony Ten 5" id="sony-ten-5" url="https://binge-play.vercel.app/oplex/player.html?id=167580" domain="https://bingewav-sports.netlify.app"
 #ch name="Laliga TV" id="laliga" url="https://allinonereborn.com/cric-hd/sportstv.php?c=laligauk" domain="https://bingewav-sports.netlify.app"
 #ch name="Sports 18 (Android)" id="sports18k" url="https://binge-player.pages.dev/?url=https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741153381~acl=%2f*~id=97ff5c734c6f4a3ea96b01cfd44846cc~data=hdntl~hmac=0af3581f161bae67efc6d4aba882ef7a34ac308c204bfe17e7317eb77bd2aafc/index.m3u8" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev"
-#ch name="Sports 18 (Windows)" id="sport18k" url="https://binge-player.pages.dev/?url=https://binge-proxy.vercel.app/cors?url=https://sports18-1-hd.joker-verse.workers.dev/index.m3u8.pages.dev"
+#ch name="Sports 18 (Windows)" id="sport18k" url="https://ifram.embedxt.site/iframe/frame.php"
 #ch name="Sports 18 Khel (All devices)" id="wpl" url="https://binge-play.vercel.app/jio/player.html?ref=jc/1998.m3u8" domain="https://bingewav-sports.netlify.app"
 #ch name="Prime Video (English)" id="prime" url="https://shwe7ank-7.github.io/L/Prime.html" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app"
 #ch name="Sports 18 HD (All devices)" id="sports18kw" url="https://binge-play.vercel.app/jio/player.html?ref=jc/122.m3u8" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev"
