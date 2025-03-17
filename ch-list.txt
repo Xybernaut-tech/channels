@@ -305,6 +305,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="willow-amz" name="Willow (by Amazon)" url="https://odfinity.github.io/channelz/willow-sports" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricketgroup.netlify.app"
 #ch id="bein1" name="beIN Sports 1" url="https://odfinity.github.io/channelz/b1" domain="https://bingewav-sports.netlify.app"
 #ch id="rcb" name="RCB Unbox" url="https://binge-player.pages.dev/?url=https://cdn-in3.100ms.live/beam1/62306e57f097c15b9c7c5289/67d7ff20b72a0fec60c10a44/20250317/1742208803558/master.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricketgroup.netlify.app"
+#ch id="RCB" name="RCB Unbox YT" url="https://www.youtube.com/embed/U1EFw1sHla4?si=Z1KyFdvqsnvaUznW" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricketgroup.netlify.app"
 
 
 
