@@ -309,7 +309,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="102" name="Willow 2 English" url="https://binge-player.pages.dev/?url=https://channel5.csports.tv/1030826119/tracks-v2a1/mono.ts.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="103" name="Willow 2 Hindi" url="https://insiderlive.pages.dev/Hindi2/" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="104" name="Willow Sports (Android)" url="https://binge-player.pages.dev/?url=https://vkvsd63.okcdn.ru/hls/7896338336389.m3u8/sig/YnBbc_lu37w/expires/1742703600315/srcIp/103.186.185.230/urls/185.226.55.79/clientType/13/srcAg/CHROME/mid/8877922593669/7896338336389_high/index.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch id="105" name="Star Sports 2 Khel" url="https://its-ferdos-alom.top/jion/play.php?cid=1998" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
+#ch id="105" name="Sky Sports Cricket" url="https://binge-player.pages.dev/?url=https://caa89d84-618a-41f3-bfd8-66b2fb7dd477.deepnoteproject.com/api/skyscric.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="106" name="Star Sports 1 SD" url="https://www.8088y.site/Star-Network/play.php?id=Star+Sports+1+SD" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 
 #ch id="108" name="Hotstar" url="https://ifram.embedxt.site/iframe/frame.php" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
