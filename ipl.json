@@ -1,6 +1,6 @@
 {
     "name": "IPL Channels data in json",
-    "channels": "108, skycric, astr, 102, 240p, 480p, 720p, 1080p, 107, 106, 109, willow-amz, astros, astro",
+    "channels": "108, astr, 106, willow-amz, astros, astro",
     "matches": [
     {
         "match_no": "1",
