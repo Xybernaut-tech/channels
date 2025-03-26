@@ -309,7 +309,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="102" name="Hindi (All)" url="https://binge-player.pages.dev/?url=https://mtsft.ruscfd.lat/720p.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="103" name="Star 1 Hindi (Android)" url="https://vimeo.com/event/5009577/embed" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="104" name="Willow (android)" url="https://binge-player.pages.dev/?url=https://vkvsd63.okcdn.ru/hls/7896338336389.m3u8/sig/YnBbc_lu37w/expires/1742703600315/srcIp/103.186.185.230/urls/185.226.55.79/clientType/13/srcAg/CHROME/mid/8877922593669/7896338336389_high/index.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch id="105" name="Star Sports 1 Hindi (All Device)" url="https://noobmaster.xyz/services/crichd/play.php?id=starhindi" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
+#ch id="105" name="Hindi (All)" url="https://binge-player.pages.dev/?url=https://live.bgrid.in/arthur/master.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="106" name="Star Sports 1 SD" url="https://www.8088y.site/Star-Network/play.php?id=Star+Sports+1+SD" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="107" name="Star Sports 1 HD" url="https://ok.ru/videoembed/9823236333233?autoplay=1&mute=0" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="108" name="Hotstar" url="https://ifram.embedxt.site/iframe/frame.php" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
