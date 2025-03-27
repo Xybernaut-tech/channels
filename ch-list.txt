@@ -564,4 +564,4 @@ if __name__ == "__main__":
 #valid domain="https://cricket-nation.live" date="27/04/2025" time="15:00"
 #valid domain="https://fancode.cricket-nation.live" date="27/04/2025" time="15:00"
 #valid domain="https://cricketgroup.netlify.app" date="12/04/2025" time="20:00"
-#valid domain="https://howzat-point.netlify.app" date="07/04/2025" time="12:00"
+#valid domain="https://howzat-point.netlify.app" date="05/04/2025" time="12:00"
