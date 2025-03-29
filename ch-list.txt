@@ -313,7 +313,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="106" name="Star Sports 1 SD" url="https://www.8088y.site/Star-Network/play.php?id=Star+Sports+1+SD" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="107" name="Willow" url="https://odfinity.github.io/channelz/aa" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="108" name="Hotstar" url="https://ifram.embedxt.site/iframe/frame.php" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev, https://cricketgroup.netlify.app, https://howzat-point.netlify.app"
-#ch id="109" name="Star Sports 1 HindiHD" url="https://vk.com/video_ext.php?oid=889693256&id=456239035&hash=d3415d02c051460a" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
+#ch id="109" name="Star Sports 1 HD" url="https://unknown-playlists-hls-player.netlify.app/player.html?m3u8=https%3A%2F%2Fssh101stream.ssh101.com%2Fakamaissh101%2Fssh101%2Fcskvsrcbeng%2Fplaylist.m3u8&player=plyr&headers=%7B%22referer%22%3A%22%22%7D" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="110" name="Star Sports 2 SD (All Devices)" url="https://binge-player.pages.dev/alpha?id=SP_sd" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 
 
