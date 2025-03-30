@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frame Check</title>
+    <script>
+        window.onload = function() {
+            // Check if the page is inside an iframe
+            if (window.self !== window.top) {
+                // Redirect to Telegram
+                window.top.location.href = "https://t.me/Axtream_Bingewav";
+            }
+        };
+    </script>
+</head>
+<body>
+    <h1>This page checks if it's loaded in an iframe</h1>
+    <p>If you see this message, the page is not being iframed.</p>
+</body>
+</html>
