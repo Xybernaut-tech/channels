@@ -1,6 +1,6 @@
 {
     "name": "IPL Channels data in json",
-    "channels": "101, 102, 103, 108, 109, astros, astro",
+    "channels": "101, 102, 103, 108, 109, astr, astros, astro",
     "matches": [
     {
         "match_no": "1",
