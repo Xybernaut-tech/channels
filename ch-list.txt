@@ -308,7 +308,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="101" name="Star Sports 2 HD (All)" url="https://binge-player.pages.dev/alpha?id=sp2_ios" domain="https://bingewav-sports.netlify.app"
 #ch id="102" name="Star Sports 2 HD (Android)" url="https://binge-player.pages.dev/alpha?id=sp2" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="103" name="Star Sports 2 SD (All)" url="https://binge-player.pages.dev/alpha?id=SP_sd" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch id="104" name="Willow (android)" url="https://binge-player.pages.dev/?url=https://vkvsd63.okcdn.ru/hls/7896338336389.m3u8/sig/YnBbc_lu37w/expires/1742703600315/srcIp/103.186.185.230/urls/185.226.55.79/clientType/13/srcAg/CHROME/mid/8877922593669/7896338336389_high/index.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
+#ch id="104" name="Hostar (server 2)" url="https://binge-player.pages.dev/?url=https://binge-fox-1.pages.dev/namaste/main.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="105" name="Willow (by cricbuzz)" url="https://binge-player.pages.dev/drm?url=https://a179aivottepl-a.akamaihd.net/lhr-nitro/live/clients/dash/enc/ll8ogw2giu/out/v1/0a60e89eae5a4d92ab556fa559f4c5cd/cenc.mpd&key=6016f23a660b6428d767758b52e54a72:df006c09745771c9d820f79c667f5a8b" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="106" name="Star Sports 1 SD" url="https://www.8088y.site/Star-Network/play.php?id=Star+Sports+1+SD" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="107" name="Willow" url="https://odfinity.github.io/channelz/aa" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
