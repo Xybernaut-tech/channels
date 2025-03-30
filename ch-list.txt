@@ -305,7 +305,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="bsport" name="Hostar Hindi" url="https://binge-player.pages.dev/?url=https://sendgbxt.ruscfd.lat/720p.m3u8" domain="https://bingewav-sports.netlify.app"
 #ch id="willow-amz" name="Willow (by Amazon)" url="https://odfinity.github.io/channelz/willow-sports" domain="https://bingewav-sports.netlify.app, https://cricketgroup.netlify.app"
 #ch id="bein1" name="beIN Sports 1" url="https://odfinity.github.io/channelz/b1" domain="https://bingewav-sports.netlify.app"
-#ch id="101" name="Star Sports 2 HD (All)" url="https://binge-player.pages.dev/alpha?id=sp2_ios" domain="https://bingewav-sports.netlify.app"
+#ch id="101" name="Star Sports 2 HD (All)" url="https://binge-player.pages.dev/?url=https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84" domain="https://bingewav-sports.netlify.app"
 #ch id="102" name="Star Sports 2 HD (Android)" url="https://binge-player.pages.dev/alpha?id=sp2" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="103" name="Star Sports 2 SD (All)" url="https://binge-player.pages.dev/alpha?id=SP_sd" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="104" name="Hostar (server 2)" url="https://binge-player.pages.dev/?url=https://binge-fox-1.pages.dev/namaste/main.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
