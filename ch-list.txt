@@ -312,7 +312,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="105" name="Willow (by cricbuzz)" url="https://nothing18.vercel.app/check.html" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="106" name="Star Sports 1 SD" url="https://www.8088y.site/Star-Network/play.php?id=Star+Sports+1+SD" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="107" name="Willow" url="https://odfinity.github.io/channelz/aa" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch id="108" name="Hotstar" url="https://ifram.embedxt.site/iframe/frame.php" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev, https://cricketgroup.netlify.app, https://howzat-point.netlify.app"
+#ch id="108" name="Hotstar" url="https://iframv2.embedxt.site/iframe/frame.php" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev, https://cricketgroup.netlify.app, https://howzat-point.netlify.app"
 #ch id="109" name="Fox HD Hindi" url="https://binge-player.pages.dev/?url=https://foxhindi.pages.dev/playlist.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="110" name="Sky Sports HD" url="https://binge-player.pages.dev/?url=https://criccoder264.pages.dev/sky.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 
