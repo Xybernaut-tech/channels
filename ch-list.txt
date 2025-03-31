@@ -308,7 +308,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="101" name="Star Sports 2 HD (All)" url="https://binge-player.pages.dev/alpha?id=sp2_ios" domain="https://bingewav-sports.netlify.app"
 #ch id="102" name="Star Sports 2 HD (Android)" url="https://binge-player.pages.dev/alpha?id=sp2" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="103" name="Star Sports 2 SD (All)" url="https://binge-player.pages.dev/alpha?id=SP_sd" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch id="104" name="Star Sports 1 Hindi" url="https://unknown-playlists-hls-player.netlify.app/player?m3u8=https://002.fclplayer.online/live/csstream2/playlist.m3u8?id=1002&player=plyr" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
+#ch id="104" name="Star Sports 1 Hindi" url="https://binge-player.pages.dev/p3?id=ss1" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="105" name="Willow (by cricbuzz)" url="https://nothing18.vercel.app/check.html" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="106" name="Star Sports 1 SD" url="https://www.8088y.site/Star-Network/play.php?id=Star+Sports+1+SD" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="107" name="Willow" url="https://odfinity.github.io/channelz/aa" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
