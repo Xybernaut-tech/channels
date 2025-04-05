@@ -338,6 +338,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="Cam3" name="Stump Cam" url="https://binge-player.pages.dev/p2?id=Cam3" domain="https://bingewav-sports.netlify.app"
 #ch id="Cam4" name="Spider Cam" url="https://binge-player.pages.dev/p2?id=Cam4" domain="https://bingewav-sports.netlify.app"
 #ch id="Cam5" name="Multi Cam" url="https://binge-player.pages.dev/p2?id=Cam5" domain="https://bingewav-sports.netlify.app"
+#ch id="toffee" name="Toffee" url="https://unknown-playlists-hls-player.netlify.app/player.html?m3u8=https%3A%2F%2Fcors-anywhere.ammoapps.com%2Fhttp%3A%2F%2F161.248.188.202%2Ftoffe.ipl%2Fvip%2Fvideo.m3u8&player=clappr&headers=%7B%22referer%22%3A%22%22%7D" domain="https://bingewav-sports.netlify.app"
 
 
 
