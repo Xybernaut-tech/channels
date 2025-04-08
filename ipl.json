@@ -1,6 +1,6 @@
 {
     "name": "IPL Channels data in json",
-    "channels": "108, 101, tsport, 103, willow, astros",
+    "channels": "108, 101, tsport, 103, willow, 107, astros",
     "matches": [
     {
         "match_no": "1",
