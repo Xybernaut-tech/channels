@@ -315,7 +315,8 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="108" name="JioHotstar" url="https://user4580.ifrem.net/iframe/frame.php" domain="https://bingewav-sports.netlify.app, https://cricxplorers.netlify.app, https://crxcshivam.live, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev, https://cricketgroup.netlify.app, https://howzat-point.netlify.app"
 #ch id="109" name="JioHotstar (server 2)" url="https://binge-player.pages.dev/p2?id=hot" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="110" name="Willow (by Cricbuzz)" url="https://binge-player.pages.dev/hls?url=https://www.tbn24.com/api/video/4026_0.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
-#ch id="toffee" name="Toffee" url="https://unknown-playlists-hls-player.netlify.app/player.html?m3u8=https%3A%2F%2Fcors-anywhere.ammoapps.com%2Fhttp%3A%2F%2F161.248.188.202%2Ftoffe.ipl%2Fvip%2Fvideo.m3u8&player=clappr&headers=%7B%22referer%22%3A%22%22%7D" domain="https://bingewav-sports.netlify.app"
+#ch id="601" name="JioHotstar FHD (Hindi)" url="https://binge-player.pages.dev/p2?id=hindi" domain="https://bingewav-sports.netlify.app"
+#ch id="602" name="JioHotstar FHD (English)" url="https://binge-player.pages.dev/p2?id=eng" domain="https://bingewav-sports.netlify.app"
 
 
 
