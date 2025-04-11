@@ -317,6 +317,8 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="110" name="Willow (by Cricbuzz)" url="https://binge-player.pages.dev/hls?url=https://www.tbn24.com/api/video/4026_0.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="601" name="JioHotstar FHD (Hindi)" url="https://binge-player.pages.dev/p2?id=hindi" domain="https://bingewav-sports.netlify.app"
 #ch id="602" name="JioHotstar FHD (English)" url="https://binge-player.pages.dev/p2?id=eng" domain="https://bingewav-sports.netlify.app"
+#ch id="PSL" name="PSL" url="https://binge-player.pages.dev/p1?id=psl" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev, https://cricket-nation.live"
+
 
 
 
