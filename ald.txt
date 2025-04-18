@@ -1,1 +1,9 @@
-cricstreamline365.netlify.app, bingewav-sports.netlify.app, crxcshivam.live, cricket-nation.live, howzat-point.netlify.app, cricxplorers.netlify.app, kiratvohli.pages.dev, one8.pages.dev
+#domain value="cricstreamline365.netlify.app"
+#domain value="bingewav-sports.netlify.app"
+#domain value="crxcshivam.live"
+#domain value="cricket-nation.live"
+#domain value="howzat-point.netlify.app"
+#domain value="cricxplorers.netlify.app"
+#domain value="kiratvohli.pages.dev"
+#domain value="one8.pages.dev"
+#domain value="shwe7ank.netlify.app"
