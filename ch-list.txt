@@ -316,7 +316,22 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="109" name="JioHotstar (Hindi)" url="https://binge-player.pages.dev/p2?id=hot" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="110" name="Willow (by Cricbuzz)" url="https://binge-player.pages.dev/hls?url=https://www.tbn24.com/api/video/4026_0.m3u8" domain="https://bingewav-sports.netlify.app, https://crxcshivam.live"
 #ch id="PSL" name="PSL" url="https://binge-player.pages.dev/p1?id=psl" domain="https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportifylive18.pages.dev, https://cricket-nation.live"
-#ch id="601" name="Star Sports 1 Hindi" url="https://binge-player.pages.dev/p2?id=hindi" domain="https://bingewav-sports.netlify.app"
+#ch id="801" name="Star Sports 1 Hindi" url="https://binge-player.pages.dev/p2?id=hindi" domain="https://bingewav-sports.netlify.app"
+#ch id="601" name="Hindi" url="https://binge-player.pages.dev/p2?id=601" domain="https://bingewav-sports.netlify.app"
+#ch id="602" name="English" url="https://binge-player.pages.dev/p2?id=602" domain="https://bingewav-sports.netlify.app"
+#ch id="603" name="Tamil" url="https://binge-player.pages.dev/p2?id=603" domain="https://bingewav-sports.netlify.app"
+#ch id="604" name="Kannada" url="https://binge-player.pages.dev/p2?id=604" domain="https://bingewav-sports.netlify.app"
+#ch id="605" name="Bhojpuri" url="https://binge-player.pages.dev/p2?id=605" domain="https://bingewav-sports.netlify.app"
+#ch id="606" name="Telugu" url="https://binge-player.pages.dev/p2?id=606" domain="https://bingewav-sports.netlify.app"
+#ch id="607" name="Gujrati" url="https://binge-player.pages.dev/p2?id=607" domain="https://bingewav-sports.netlify.app"
+#ch id="608" name="Haryanvi" url="https://binge-player.pages.dev/p2?id=608" domain="https://bingewav-sports.netlify.app"
+#ch id="609" name="Malayalam" url="https://binge-player.pages.dev/p2?id=609" domain="https://bingewav-sports.netlify.app"
+#ch id="610" name="Bengali" url="https://binge-player.pages.dev/p2?id=610" domain="https://bingewav-sports.netlify.app"
+#ch id="701" name="Batter Cam" url="https://binge-player.pages.dev/p2?id=701" domain="https://bingewav-sports.netlify.app"
+#ch id="702" name="Hero Cam" url="https://binge-player.pages.dev/p2?id=702" domain="https://bingewav-sports.netlify.app"
+#ch id="703" name="Stump Cam" url="https://binge-player.pages.dev/p2?id=703" domain="https://bingewav-sports.netlify.app"
+#ch id="704" name="Spidy Cam" url="https://binge-player.pages.dev/p2?id=704" domain="https://bingewav-sports.netlify.app"
+
 
 
 
