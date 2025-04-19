@@ -330,6 +330,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="702" name="Hero Cam" url="https://psplay.site/ipl_all/play.php?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=hero_cam" domain="https://bingewav-sports.netlify.app"
 #ch id="703" name="Stump Cam" url="https://psplay.site/ipl_all/play.php?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=stump_cam" domain="https://bingewav-sports.netlify.app"
 #ch id="704" name="Spidy Cam" url="https://psplay.site/ipl_all/play.php?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=field_view_cam" domain="https://bingewav-sports.netlify.app"
+#ch id="801" name="Star Sports 1 Hindi" url="https://binge-player.pages.dev/p2?id=hindi" domain="https://bingewav-sports.netlify.app"
 
 
 
