@@ -7,3 +7,4 @@
 #domain value="kiratvohli.pages.dev"
 #domain value="one8.pages.dev"
 #domain value="shwe7ank.netlify.app"
+#domain value="w3schools.com"
