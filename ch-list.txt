@@ -581,6 +581,7 @@ if __name__ == "__main__":
 
 #valid domain="https://cricstreamline365.pages.dev" date="22/05/2025" time="15:00"
 #valid domain="https://bingewave-sports.pages.dev" date="31/12/2995" time="23:00"
+#valid domain="https://binge-ott.netlify.app" date="31/12/2995" time="23:00"
 #valid domain="https://bingewav-sports.netlify.app" date="31/12/2995" time="23:00"
 #valid domain="https://crxcshivam.live" date="28/05/2025" time="19:00"
 #valid domain="https://sportifylive18.pages.dev" date="24/05/2025" time="09:00"
