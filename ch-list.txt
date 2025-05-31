@@ -329,7 +329,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="701" name="Batter Cam" url="https://binge-player.pages.dev/p2?id=701" domain="https://bingewav-sports.netlify.app"
 #ch id="702" name="Hero Cam" url="https://binge-player.pages.dev/p2?id=702" domain="https://bingewav-sports.netlify.app"
 #ch id="703" name="Stump Cam" url="https://binge-player.pages.dev/p2?id=703" domain="https://bingewav-sports.netlify.app"
-#ch id="704" name="Spidy Cam" url="https://binge-player.pages.dev/p2?id=704" domain="https://bingewav-sports.netlify.app"
+#ch id="ind69" name="India A vs England Lions" url="https://binge-player.pages.dev/?url=https%3A%2F%2Fbcovlive-a.akamaihd.net%2Fb238876e5f004ec29d4e07066a044996%2Feu-west-1%2F4854911276001%2Fplaylist.m3u8" domain="https://bingewave-sports.pages.dev, https://one8.pages.dev"
 
 
 
