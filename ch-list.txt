@@ -305,33 +305,6 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch id="bsport" name="Hostar Hindi" url="https://binge-player.pages.dev/?url=https://sendgbxt.ruscfd.lat/720p.m3u8" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app"
 #ch id="willow-amz" name="Willow (by Amazon)" url="https://odfinity.github.io/channelz/willow-sports" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://cricketgroup.netlify.app"
 #ch id="bein1" name="beIN Sports 1" url="https://odfinity.github.io/channelz/b1" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app"
-#ch id="101" name="JioHotstar Hindi" url="https://iplislive.pages.dev" domain="https://bingewave-sports.pages.dev, https://crxcshivamm.pages.dev, https://sportify-live.pages.dev"
-#ch id="102" name="Star Sports 2 HD (Android)" url="https://binge-player.pages.dev/p2?id=sp2" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="103" name="Star Sports 2 SD (All)" url="https://binge-player.pages.dev/p2?id=SP_sd" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="104" name="Star Sports 1 Hindi" url="https://binge-player.pages.dev/p3?id=ss1" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="105" name="Star Sports 1 Telugu" url="https://binge-player.pages.dev/p3?id=telugu" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="106" name="Star Sports 1 Kannada" url="https://binge-player.pages.dev/p3?id=kan" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="107" name="JioHotstar (Hindi)" url="https://binge-player.pages.dev/?url=https://ipl.dccodes.me/hls/IPL/index.m3u8" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="108" name="JioHotstar (Hin + Eng)" url="https://userr3536.ifrem.net/iframe/frame.php" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://cricxplorers.netlify.app, https://crxcshivamm.pages.dev, https://cricstreamline365.pages.dev, https://sportify-live.pages.dev, https://cricketgroup.netlify.app, https://howzat-point.pages.dev, https://kiratvohli.pages.dev, https://one8.pages.dev"
-#ch id="109" name="JioHotstar (Hindi)" url="https://binge-player.pages.dev/p2?id=hot" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="110" name="Willow (by Cricbuzz)" url="https://binge-player.pages.dev/hls?url=https://www.tbn24.com/api/video/4026_0.m3u8" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://crxcshivamm.pages.dev"
-#ch id="PSL" name="PSL" url="https://binge-player.pages.dev/p1?id=psl" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://cricstreamline365.netlify.app, https://sportify-live.pages.dev, https://cricket-nation.live"
-#ch id="601" name="Hindi" url="https://ok.ru/videoembed/9931608235635" domain="https://bingewav-sports.netlify.app"
-#ch id="602" name="English" url="https://binge-player.pages.dev/p3?id=sb" domain="https://bingewav-sports.netlify.app"
-#ch id="603" name="Tamil" url="https://binge-player.pages.dev/p2?id=603" domain="https://bingewav-sports.netlify.app"
-#ch id="604" name="Kannada" url="https://binge-player.pages.dev/p2?id=604" domain="https://bingewav-sports.netlify.app"
-#ch id="605" name="Bhojpuri" url="https://binge-player.pages.dev/p2?id=605" domain="https://bingewav-sports.netlify.app"
-#ch id="606" name="Telugu" url="https://binge-player.pages.dev/p2?id=606" domain="https://bingewav-sports.netlify.app"
-#ch id="607" name="Gujrati" url="https://binge-player.pages.dev/p2?id=607" domain="https://bingewav-sports.netlify.app"
-#ch id="608" name="Haryanvi" url="https://binge-player.pages.dev/p2?id=608" domain="https://bingewav-sports.netlify.app"
-#ch id="609" name="Malayalam" url="https://binge-player.pages.dev/p2?id=609" domain="https://bingewav-sports.netlify.app"
-#ch id="610" name="Bengali" url="https://binge-player.pages.dev/p2?id=610" domain="https://bingewav-sports.netlify.app"
-#ch id="701" name="Batter Cam" url="https://binge-player.pages.dev/p2?id=701" domain="https://bingewav-sports.netlify.app"
-#ch id="702" name="Hero Cam" url="https://binge-player.pages.dev/p2?id=702" domain="https://bingewav-sports.netlify.app"
-#ch id="703" name="Stump Cam" url="https://binge-player.pages.dev/p2?id=703" domain="https://bingewav-sports.netlify.app"
-#ch id="ind69" name="India A vs England Lions" url="https://binge-player.pages.dev/?url=https%3A%2F%2Fbcovlive-a.akamaihd.net%2Fb238876e5f004ec29d4e07066a044996%2Feu-west-1%2F4854911276001%2Fplaylist.m3u8" domain="https://bingewave-sports.pages.dev, https://one8.pages.dev"
-
-
 
 
 
