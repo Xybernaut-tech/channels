@@ -286,6 +286,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="PTV" id="ptv" url="https://binge-player.pages.dev/?url=https://cors-anywhere.ammoapps.com/http://c4s22.vfruitfairy.com/com1/index.m3u8" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app"
 #ch id="g-super" name="Geo Super" url="https://shwe7ank.netlify.app/geo-super" domain="https://bingewave-sports.pages.dev, https://cricstreamline365.pages.dev"
 #ch id="bein1" name="beIN Sports 1" url="https://odfinity.github.io/channelz/b1" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app"
+#ch name="Prime Video" id="prime" url="https://binge-player.pages.dev/drm?url=https://aba5sdmaaaaaaaamlehympi3yw64b.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/4ov3wylsyb/out/v1/acfdcf2dabd24075bb615c6c19ba9bd4/cenc.mpd&key=ec2147a4b9b1b87ee3d8dc6915bc7928:c84fcd82767a9cd9e2e0c0d1b47a72c5" domain="https://bingewave-sports.pages.dev, https://bingewav-sports.netlify.app, https://sportify-live.pages.dev, https://cricketgroup.netlify.app, https://cricstreamline365.pages.dev"
 
 
 
