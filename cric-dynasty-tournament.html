@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CricDynasty RC24 Tournament</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #0e1013;
+      color: #fff;
+    }
+
+    h1 {
+      text-align: center;
+      color: #f9c94a;
+      margin-bottom: 40px;
+    }
+
+    .stage {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+    }
+
+    .box {
+      background: #1a1d24;
+      border-left: 5px solid #f9c94a;
+      padding: 15px;
+      margin: 10px;
+      border-radius: 10px;
+      min-width: 250px;
+      box-shadow: 0 0 10px rgba(249, 201, 74, 0.3);
+    }
+
+    .box h3 {
+      margin: 0 0 10px;
+      color: #f9c94a;
+    }
+
+    .match {
+      margin: 5px 0;
+      padding: 8px;
+      background: #2c2f36;
+      border-radius: 6px;
+    }
+
+    .highlight {
+      background: #f9c94a;
+      color: #000;
+      font-weight: bold;
+    }
+
+    .flow {
+      text-align: center;
+      font-size: 24px;
+      color: #888;
+      margin: 10px 0;
+    }
+
+    @media (max-width: 768px) {
+      .stage {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>🏏 CricDynasty Real Cricket 24 Tournament</h1>
+
+  <!-- League Stage -->
+  <div class="stage">
+    <div class="box">
+      <h3>Group 1 - League Matches</h3>
+      <div class="match">Team 1 vs Team 2</div>
+      <div class="match">Team 1 vs Team 3</div>
+      <div class="match">Team 1 vs Team 4</div>
+      <div class="match">Team 1 vs Team 5</div>
+      <div class="match">Team 1 vs Team 6</div>
+      <div class="match">Team 1 vs Team 1 (Grp 2)</div>
+      <!-- Add remaining matches -->
+    </div>
+    <div class="box">
+      <h3>Group 2 - League Matches</h3>
+      <div class="match">Team 1 vs Team 2</div>
+      <div class="match">Team 1 vs Team 3</div>
+      <div class="match">Team 1 vs Team 4</div>
+      <div class="match">Team 1 vs Team 5</div>
+      <div class="match">Team 1 vs Team 6</div>
+      <div class="match">Team 1 vs Team 1 (Grp 1)</div>
+      <!-- Add remaining matches -->
+    </div>
+  </div>
+
+  <div class="flow">⬇️ Top 4 from each group qualify</div>
+
+  <!-- Playoffs 1 -->
+  <div class="stage">
+    <div class="box">
+      <h3>Playoffs 1 - Knockouts</h3>
+      <div class="match">KO 1A: G1 Team 1st vs Team 2nd</div>
+      <div class="match">KO 2A: G2 Team 1st vs Team 2nd</div>
+      <div class="match">KO 1B: G1 Team 3rd vs Team 4th</div>
+      <div class="match">KO 2B: G2 Team 3rd vs Team 4th</div>
+    </div>
+  </div>
+
+  <div class="flow">⬇️ Winners advance to Qualifier 1 & Eliminator</div>
+
+  <!-- Playoffs 2 -->
+  <div class="stage">
+    <div class="box">
+      <h3>Playoffs 2</h3>
+      <div class="match">Qualifier 1: Winner KO1A vs Winner KO2A</div>
+      <div class="match">Eliminator: Winner KO1B vs Winner KO2B</div>
+      <div class="match">Qualifier 2: Loser Q1 vs Winner Eliminator</div>
+    </div>
+  </div>
+
+  <div class="flow">⬇️ Final Clash</div>
+
+  <!-- Final -->
+  <div class="stage">
+    <div class="box highlight">
+      <h3>Final</h3>
+      <div class="match">🏆 Winner Q1 vs Winner Q2</div>
+    </div>
+  </div>
+
+</body>
+</html>
