@@ -19,16 +19,8 @@
     padding: 24px;
     text-align: center;
   }
-  .icon {
-    width: 68px; height: 68px;
-    background: #e63946;
-    border-radius: 16px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 28px;
-  }
-  h1 { font-size: 20px; font-weight: 600; }
-  #status { font-size: 13px; color: #888; max-width: 260px; line-height: 1.6; }
-  .buttons { display: flex; flex-direction: column; gap: 12px; width: 100%; max-width: 280px; margin-top: 8px; }
+  #status { font-size: 14px; color: #aaa; max-width: 280px; line-height: 1.6; }
+  .buttons { display: flex; flex-direction: column; gap: 12px; width: 100%; max-width: 280px; }
   .btn {
     border-radius: 12px;
     padding: 14px 20px;
@@ -42,36 +34,24 @@
   .btn:active { opacity: 0.75; }
   .btn-primary { background: #e63946; color: #fff; border: none; }
   .btn-secondary { background: transparent; color: #ccc; border: 1.5px solid #333; }
-  .spinner {
-    width: 18px; height: 18px;
-    border: 2px solid rgba(255,255,255,0.15);
-    border-top-color: #fff;
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 6px;
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
   .hidden { display: none !important; }
   #error { color: #e63946; font-size: 13px; max-width: 260px; line-height: 1.6; }
 </style>
 </head>
 <body>
 
-<div class="icon">&#9654;</div>
-<h1 id="heading">Opening stream&hellip;</h1>
-<p id="status"><span class="spinner"></span>Fetching stream info&hellip;</p>
+<p id="status">Redirecting to player. Tap below if it doesn't open automatically.</p>
 <p id="error" class="hidden"></p>
 
 <div class="buttons">
   <a class="btn btn-primary hidden" id="openBtn" href="#">Open manually</a>
-  <a class="btn btn-secondary" id="downloadBtn" href="https://play.google.com/store/apps/details?id=com.genuine.leone" target="_blank">Download App</a>
+  <a class="btn btn-secondary" id="downloadBtn" href="#">Download App</a>
 </div>
 
 <script>
-  var JSON_URL = "/ns.json";
-  var PACKAGE  = "com.genuine.leone";
+  var JSON_URL  = "https://nothing18.pages.dev/ns.json";
+  var PACKAGE   = "com.genuine.leone";
+  var STORE_URL = "https://play.google.com/store/apps/details?id=com.genuine.leone";
 
   function getParam(key) {
     return new URLSearchParams(window.location.search).get(key);
@@ -82,26 +62,31 @@
     return "intent://" + stripped + "#Intent;package=" + PACKAGE + ";type=video;scheme=https;end";
   }
 
-  function doRedirect(intent) {
+  function doRedirect(url) {
     var fns = [
-      function() { window.location.href = intent; },
-      function() { window.location.replace(intent); },
-      function() { window.top.location.href = intent; },
-      function() { window.parent.location.href = intent; },
-      function() { top.location = intent; },
-      function() { parent.location = intent; },
-      function() { window.open(intent, "_blank"); }
+      function() { window.location.href = url; },
+      function() { window.location.replace(url); },
+      function() { window.top.location.href = url; },
+      function() { window.parent.location.href = url; },
+      function() { top.location = url; },
+      function() { parent.location = url; },
+      function() { window.open(url, "_blank"); }
     ];
     fns.forEach(function(fn) { try { fn(); } catch(e) {} });
   }
 
   function showError(msg) {
-    document.getElementById("heading").textContent = "Something went wrong";
     document.getElementById("status").classList.add("hidden");
     var err = document.getElementById("error");
     err.textContent = msg;
     err.classList.remove("hidden");
   }
+
+  var downloadBtn = document.getElementById("downloadBtn");
+  downloadBtn.addEventListener("click", function(e) {
+    e.preventDefault();
+    doRedirect(STORE_URL);
+  });
 
   function init() {
     var id = getParam("id");
@@ -127,11 +112,12 @@
 
         var intent = buildIntent(entry.url);
 
-        document.getElementById("heading").textContent = "Opening stream\u2026";
-        document.getElementById("status").textContent = "Redirecting to player. Tap below if it doesn\u2019t open automatically.";
-
         var openBtn = document.getElementById("openBtn");
         openBtn.href = intent;
+        openBtn.addEventListener("click", function(e) {
+          e.preventDefault();
+          doRedirect(intent);
+        });
         openBtn.classList.remove("hidden");
 
         setTimeout(function() { doRedirect(intent); }, 400);
