@@ -295,7 +295,7 @@ if __name__ == "__main__": fetcher = DataFetcher() fetcher.run_requests()
 #ch name="Sky Sports NZ" id="skynz" url="https://b-player2.pages.dev/p1?id=skynz-4k" domain="https://bingewave-sports.pages.dev, https://kiratvohli.pages.dev, https://binge-sports.pages.dev, https://sportifylive-18-4.pages.dev"
 #ch name="Star Sports 1 Tamil HD" id="tamil" url="https://binge-jiotv.pages.dev/player2?id=4468" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
 #ch name="Star Sports 1 Telugu HD" id="telugu" url="https://binge-jiotv.pages.dev/player2?id=4471" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
-#ch name="Willow (NS Player)" id="2601" url="https://nothing18.pages.dev/check" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
+#ch name="Hotstr Eng (NS Player)" id="2601" url="https://nothing18.pages.dev/ns?id=hot-eng" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
 #ch name="Hindi (Plyr)" id="2602" url="https://b-player2.pages.dev/p3?id=hot" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
 #ch name="English (Shaka)" id="2603" url="https://b-player2.pages.dev/p1?id=str1h" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
 #ch name="English (Plyr)" id="2604" url="https://b-player2.pages.dev/p3?id=str1h" domain="https://bingewave-sports.pages.dev, https://binge-sports.pages.dev, https://bingewav-sports.netlify.app"
