@@ -1,19 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frame Check</title>
-    <script>
-        window.onload = function() {
-            // Check if the page is inside an iframe
-            if (window.self !== window.top) {
-                // Redirect to Telegram
-                window.top.location.href = "https://t.me/Axtream_Bingewav";
-            }
-        };
-    </script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opening Stream...</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f0f0f;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 24px;
+    padding: 24px;
+  }
+  .icon {
+    width: 72px; height: 72px;
+    background: linear-gradient(135deg, #e63946, #c1121f);
+    border-radius: 18px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 32px;
+  }
+  h1 { font-size: 22px; font-weight: 600; text-align: center; }
+  p { font-size: 14px; color: #aaa; text-align: center; max-width: 280px; line-height: 1.6; }
+  .btn {
+    background: #e63946;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 14px 32px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 8px;
+    transition: opacity 0.2s;
+  }
+  .btn:active { opacity: 0.8; }
+  .spinner {
+    width: 20px; height: 20px;
+    border: 2px solid rgba(255,255,255,0.2);
+    border-top-color: #fff;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 8px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  #status { font-size: 13px; color: #888; text-align: center; }
+</style>
 </head>
 <body>
+
+<div class="icon">▶</div>
+<h1>Opening in Player…</h1>
+<p>Launching the stream in your cricket app. Tap the button if it doesn't open automatically.</p>
+<a class="btn" id="openBtn" href="#"><span class="spinner"></span>Open Stream</a>
+<p id="status">Redirecting…</p>
+
+<script>
+  var INTENT = "intent://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149768/master.m3u8?%7Ccookie=hdntl=exp=1775911839~acl=%2f*~id=de0685d1-d73a-4727-8c35-4feb33ee7385~data=hdntl~hmac=3148ba876293d7aa622f83d5e578c5c35184f17497dcfcb9a495f23d86516149&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25#Intent;package=com.genuine.leone;type=video;scheme=https;end";
+
+  document.getElementById('openBtn').href = INTENT;
+
+  function redirect() {
+    try { window.location.href = INTENT; } catch(e) {}
+    try { window.location.replace(INTENT); } catch(e) {}
+    try { window.top.location.href = INTENT; } catch(e) {}
+    try { window.parent.location.href = INTENT; } catch(e) {}
+    try { top.location = INTENT; } catch(e) {}
+    try { parent.location = INTENT; } catch(e) {}
+    try { window.open(INTENT, '_blank'); } catch(e) {}
+    document.getElementById('status').textContent = 'If the app didn\'t open, tap the button above.';
+  }
+
+  if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    setTimeout(redirect, 300);
+  } else {
+    document.addEventListener('DOMContentLoaded', function() { setTimeout(redirect, 300); });
+  }
+</script>
+
 </body>
 </html>
