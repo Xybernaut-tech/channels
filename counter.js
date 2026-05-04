@@ -1,4 +1,4 @@
-<script>
+
 (function() {
     // Generate or retrieve a simple unique session ID for this visitor
     function getSessionId() {
@@ -38,4 +38,3 @@
     // Send a heartbeat ping every 20 seconds to keep the session alive
     setInterval(sendPing, 20000);
 })();
-</script>
