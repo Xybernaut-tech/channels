@@ -1,61 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>JW Player Full Page</title>
-  <script src="https://cdn.jwplayer.com/libraries/IDzF9Zmk.js"></script>
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      background-color: black;
+<script>
+(function() {
+    // Generate or retrieve a simple unique session ID for this visitor
+    function getSessionId() {
+        let sid = localStorage.getItem('aut_session_id');
+        if (!sid) {
+            sid = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+            localStorage.setItem('aut_session_id', sid);
+        }
+        return sid;
     }
-    #player {
-      width: 100%;
-      height: 100%;
+
+    function sendPing() {
+        fetch('https://cricdynasty-hits.onrender.com/ping.php', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                session: getSessionId(),
+                domain: window.location.hostname,
+                path: window.location.pathname,
+                ts: Date.now()
+            }),
+            keepalive: true // Ensures ping sends even if user closes tab
+        }).catch(e => console.debug('Tracker ping failed:', e));
     }
-    #startButton {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background-color: #1e90ff;
-      color: white;
-      padding: 15px 30px;
-      font-size: 18px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      z-index: 10;
-    }
-  </style>
-</head>
-<body>
 
-  <div id="player"></div>
-  <button id="startButton">Start Stream</button>
+    // Send initial ping immediately
+    sendPing();
 
-  <script>
-    document.getElementById("startButton").addEventListener("click", function () {
-      fetch("https://binge-projects.vercel.app/API/test.txt")
-        .then(res => res.text())
-        .then(url => {
-          document.getElementById("startButton").style.display = "none";
-          jwplayer("player").setup({
-            file: url.trim(),
-            width: "100%",
-            height: "100%",
-            autostart: true,
-            mute: false
-          });
-        })
-        .catch(err => {
-          alert("Failed to load stream.");
-          console.error("Error:", err);
-        });
-    });
-  </script>
-
-</body>
-</html>
+    // Send a heartbeat ping every 20 seconds to keep the session alive
+    setInterval(sendPing, 20000);
+})();
+</script>
