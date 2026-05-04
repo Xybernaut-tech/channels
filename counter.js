@@ -1,3 +1,4 @@
+<script>
 (function() {
     // Generate or retrieve a simple unique session ID for this visitor
     function getSessionId() {
@@ -9,6 +10,13 @@
         return sid;
     }
 
+    function getIframeDomain() {
+        if (window.top !== window.self) {
+            try { return new URL(document.referrer).hostname; } catch(e) {}
+        }
+        return null;
+    }
+
     function sendPing() {
         fetch('https://cricdynasty-hits.onrender.com/ping.php', {
             method: 'POST',
@@ -17,6 +25,7 @@
                 session: getSessionId(),
                 domain: window.location.hostname,
                 path: window.location.pathname,
+                iframe: getIframeDomain(),
                 ts: Date.now()
             }),
             keepalive: true // Ensures ping sends even if user closes tab
@@ -29,3 +38,4 @@
     // Send a heartbeat ping every 20 seconds to keep the session alive
     setInterval(sendPing, 20000);
 })();
+</script>
